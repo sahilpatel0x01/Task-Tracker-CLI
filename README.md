@@ -16,4 +16,4 @@ Clone the Repository:
     python task_cli.py
 
 GitHub Repository
-You can find the code for this project on GitHub: Task Tracker CLI GitHub Repository -> https://github.com/sahilpatel0x01/Task-Tracker-CLI/blob/main/task_cli.py
+You can find the code for this project on GitHub: Task Tracker CLI GitHub Repository -> https://github.com/sahilpatel0x01/Task-Tracker-CLI
